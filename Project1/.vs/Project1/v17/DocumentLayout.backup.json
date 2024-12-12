@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\giahu\\Downloads\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7FF692-E6E0-4AA7-997E-4E0777624E87}|Project1\\Project1.vcxproj|C:\\Users\\giahu\\Downloads\\Project1\\Project1\\lich.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D7FF692-E6E0-4AA7-997E-4E0777624E87}|Project1\\Project1.vcxproj|solutionrelative:Project1\\lich.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7FF692-E6E0-4AA7-997E-4E0777624E87}|Project1\\Project1.vcxproj|C:\\Users\\giahu\\Downloads\\Project1\\Project1\\admin.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5D7FF692-E6E0-4AA7-997E-4E0777624E87}|Project1\\Project1.vcxproj|solutionrelative:Project1\\admin.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7FF692-E6E0-4AA7-997E-4E0777624E87}|Project1\\Project1.vcxproj|C:\\Users\\giahu\\Downloads\\Project1\\Project1\\tk_bi_vo_hieu.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5D7FF692-E6E0-4AA7-997E-4E0777624E87}|Project1\\Project1.vcxproj|solutionrelative:Project1\\tk_bi_vo_hieu.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7FF692-E6E0-4AA7-997E-4E0777624E87}|Project1\\Project1.vcxproj|C:\\Users\\giahu\\Downloads\\Project1\\Project1\\mk.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5D7FF692-E6E0-4AA7-997E-4E0777624E87}|Project1\\Project1.vcxproj|solutionrelative:Project1\\mk.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7FF692-E6E0-4AA7-997E-4E0777624E87}|Project1\\Project1.vcxproj|C:\\Users\\giahu\\Downloads\\Project1\\Project1\\tk.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5D7FF692-E6E0-4AA7-997E-4E0777624E87}|Project1\\Project1.vcxproj|solutionrelative:Project1\\tk.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7FF692-E6E0-4AA7-997E-4E0777624E87}|Project1\\Project1.vcxproj|C:\\Users\\giahu\\Downloads\\Project1\\Project1\\tkb_chung.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5D7FF692-E6E0-4AA7-997E-4E0777624E87}|Project1\\Project1.vcxproj|solutionrelative:Project1\\tkb_chung.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7FF692-E6E0-4AA7-997E-4E0777624E87}|Project1\\Project1.vcxproj|C:\\Users\\giahu\\Downloads\\Project1\\Project1\\ngay_dat_2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5D7FF692-E6E0-4AA7-997E-4E0777624E87}|Project1\\Project1.vcxproj|solutionrelative:Project1\\ngay_dat_2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7FF692-E6E0-4AA7-997E-4E0777624E87}|Project1\\Project1.vcxproj|C:\\Users\\giahu\\Downloads\\Project1\\Project1\\ngay_dat_1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5D7FF692-E6E0-4AA7-997E-4E0777624E87}|Project1\\Project1.vcxproj|solutionrelative:Project1\\ngay_dat_1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7FF692-E6E0-4AA7-997E-4E0777624E87}|Project1\\Project1.vcxproj|C:\\Users\\giahu\\Downloads\\Project1\\Project1\\tkb_chung_gon.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5D7FF692-E6E0-4AA7-997E-4E0777624E87}|Project1\\Project1.vcxproj|solutionrelative:Project1\\tkb_chung_gon.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7FF692-E6E0-4AA7-997E-4E0777624E87}|Project1\\Project1.vcxproj|C:\\Users\\giahu\\Downloads\\Project1\\Project1\\mylib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D7FF692-E6E0-4AA7-997E-4E0777624E87}|Project1\\Project1.vcxproj|solutionrelative:Project1\\mylib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tk_bi_vo_hieu.txt",
+              "DocumentMoniker": "C:\\Users\\giahu\\Downloads\\Project1\\Project1\\tk_bi_vo_hieu.txt",
+              "RelativeDocumentMoniker": "Project1\\tk_bi_vo_hieu.txt",
+              "ToolTip": "C:\\Users\\giahu\\Downloads\\Project1\\Project1\\tk_bi_vo_hieu.txt",
+              "RelativeToolTip": "Project1\\tk_bi_vo_hieu.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-12T13:09:33.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mk.txt",
+              "DocumentMoniker": "C:\\Users\\giahu\\Downloads\\Project1\\Project1\\mk.txt",
+              "RelativeDocumentMoniker": "Project1\\mk.txt",
+              "ToolTip": "C:\\Users\\giahu\\Downloads\\Project1\\Project1\\mk.txt",
+              "RelativeToolTip": "Project1\\mk.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-12T13:09:33.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "tk.txt",
+              "DocumentMoniker": "C:\\Users\\giahu\\Downloads\\Project1\\Project1\\tk.txt",
+              "RelativeDocumentMoniker": "Project1\\tk.txt",
+              "ToolTip": "C:\\Users\\giahu\\Downloads\\Project1\\Project1\\tk.txt",
+              "RelativeToolTip": "Project1\\tk.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-12T13:09:33.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "tkb_chung.txt",
+              "DocumentMoniker": "C:\\Users\\giahu\\Downloads\\Project1\\Project1\\tkb_chung.txt",
+              "RelativeDocumentMoniker": "Project1\\tkb_chung.txt",
+              "ToolTip": "C:\\Users\\giahu\\Downloads\\Project1\\Project1\\tkb_chung.txt",
+              "RelativeToolTip": "Project1\\tkb_chung.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-12T13:09:33.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "mylib.h",
+              "DocumentMoniker": "C:\\Users\\giahu\\Downloads\\Project1\\Project1\\mylib.h",
+              "RelativeDocumentMoniker": "Project1\\mylib.h",
+              "ToolTip": "C:\\Users\\giahu\\Downloads\\Project1\\Project1\\mylib.h",
+              "RelativeToolTip": "Project1\\mylib.h",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAABcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T13:09:33.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "admin.txt",
+              "DocumentMoniker": "C:\\Users\\giahu\\Downloads\\Project1\\Project1\\admin.txt",
+              "RelativeDocumentMoniker": "Project1\\admin.txt",
+              "ToolTip": "C:\\Users\\giahu\\Downloads\\Project1\\Project1\\admin.txt",
+              "RelativeToolTip": "Project1\\admin.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-12T13:09:33.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lich.cpp",
+              "DocumentMoniker": "C:\\Users\\giahu\\Downloads\\Project1\\Project1\\lich.cpp",
+              "RelativeDocumentMoniker": "Project1\\lich.cpp",
+              "ToolTip": "C:\\Users\\giahu\\Downloads\\Project1\\Project1\\lich.cpp",
+              "RelativeToolTip": "Project1\\lich.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T13:09:33.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "tkb_chung_gon.txt",
+              "DocumentMoniker": "C:\\Users\\giahu\\Downloads\\Project1\\Project1\\tkb_chung_gon.txt",
+              "RelativeDocumentMoniker": "Project1\\tkb_chung_gon.txt",
+              "ToolTip": "C:\\Users\\giahu\\Downloads\\Project1\\Project1\\tkb_chung_gon.txt",
+              "RelativeToolTip": "Project1\\tkb_chung_gon.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-12T13:09:33.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ngay_dat_1.txt",
+              "DocumentMoniker": "C:\\Users\\giahu\\Downloads\\Project1\\Project1\\ngay_dat_1.txt",
+              "RelativeDocumentMoniker": "Project1\\ngay_dat_1.txt",
+              "ToolTip": "C:\\Users\\giahu\\Downloads\\Project1\\Project1\\ngay_dat_1.txt",
+              "RelativeToolTip": "Project1\\ngay_dat_1.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-12T13:09:33.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ngay_dat_2.txt",
+              "DocumentMoniker": "C:\\Users\\giahu\\Downloads\\Project1\\Project1\\ngay_dat_2.txt",
+              "RelativeDocumentMoniker": "Project1\\ngay_dat_2.txt",
+              "ToolTip": "C:\\Users\\giahu\\Downloads\\Project1\\Project1\\ngay_dat_2.txt",
+              "RelativeToolTip": "Project1\\ngay_dat_2.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-12T13:09:33.275Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

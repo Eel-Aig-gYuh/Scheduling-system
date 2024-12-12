@@ -1,0 +1,11 @@
+﻿  lich.cpp
+C:\Users\giahu\Downloads\Project1\Project1\mylib.h(10,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  (compiling source file 'lich.cpp')
+  
+C:\Users\giahu\Downloads\Project1\Project1\mylib.h(10,20): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  (compiling source file 'lich.cpp')
+  
+C:\Users\giahu\Downloads\Project1\Project1\lich.cpp(979,17): warning C4129: 'N': unrecognized character escape sequence
+C:\Users\giahu\Downloads\Project1\Project1\lich.cpp(1339,9): warning C4101: 'vtThu2': unreferenced local variable
+C:\Users\giahu\Downloads\Project1\Project1\lich.cpp(1768,11): warning C4101: 'case0on': unreferenced local variable
+  Project1.vcxproj -> C:\Users\giahu\Downloads\Project1\x64\Debug\Project1.exe
